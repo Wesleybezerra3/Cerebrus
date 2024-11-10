@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Chewy&family=Pangolin&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+:root{
+    --color_primary: #742778;
+    --yellow: #F4BF42;
+    --orage: #FF8D61;
+    --green: #417D1B;
+    --black: #000000;
+    --black_light: #101010;
+    --white: #ffffff;
+
+}
+body{
+    background-color: var(--color_primary);
+}
+
